@@ -1,4 +1,4 @@
-![image](https://github.com/ikungame/funslime-bugcraft-server/assets/142589712/68cbcaba-e8b4-41e0-8114-b5197430f259)# funslime-bugcraft-server
+# funslime-bugcraft-server
 FunSlime趣味粘液服务端 | 之前开了一年多的服务器，开不下去了，于是我把服务端公开了。
 
 mineBBS链接: https://www.minebbs.com/resources/funslime-bugcraft.6573/
